@@ -14,6 +14,9 @@ Like in 🆘 ?
 
 Not like in sauce, but close
 
-Why is there a "Blame" button ready, on top of my readme? Is this how bullying works here?!?
+Why is there a "Blame" button already on top of my readme? Is this how bullying works here?!?
+
 Not really sure if this is what I wanted.
 Going back to github lessons - too many unclear issues for me here
+
+Why is it a readme.md? Is this a TLD? Can I pick another one?
