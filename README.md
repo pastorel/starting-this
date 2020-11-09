@@ -11,3 +11,9 @@ Yeah, this dude seems to have the right knowledge, I totally can see it on his f
 I've seen images introduced here, I do not now how to do this on my own, I guess I really need help.
 
 Like in 🆘 ?
+
+Not like in sauce, but close
+
+Why is there a "Blame" button ready, on top of my readme? Is this how bullying works here?!?
+Not really sure if this is what I wanted.
+Going back to github lessons - too many unclear issues for me here
