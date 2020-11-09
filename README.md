@@ -7,14 +7,11 @@ Apart that I have no idea what is this all about, I really do hope that everythi
 
 
 Yeah, this dude seems to have the right knowledge, I totally can see it on his face, maybe it's the right time to listen to someone 
-![git specialist](https://github.com/pastorel/starting-this/blob/main/Screenshot_20201109-144115_YouTube.jpg)
 
-Yes! Am I nailing it or what? I am conding already, I feel worthy!!!
+(Yes! Am I nailing it or what? I am conding already, I feel worthy!!! Title on my desk: full stack markdown programmer)
 
 Here is the dude saying all this:
 ![dude on Youtube](https://youtu.be/Loav1kbA640)
-
-[![dude on youtube](https://github.com/pastorel/starting-this/blob/main/Screenshot_20201109-144115_YouTube.jpg)](https://www.youtube.com/watch?v=https://youtu.be/Loav1kbA640)
 
 He claims to rank 15th around here, right after someone named Linus, which is 1st, but maybe is me, total noob, not hearing right ¯\_(ツ)_/¯ ?
 
