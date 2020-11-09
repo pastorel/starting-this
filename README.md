@@ -8,6 +8,7 @@ Apart that I have no idea what is this all about, I really do hope that everythi
 
 Yeah, this dude seems to have the right knowledge, I totally can see it on his face, maybe it's the right time to listen to someone 
 https://github.com/pastorel/starting-this/blob/main/Screenshot_20201109-144115_YouTube.jpg
+He claims to rank 15th around here, right after someone named Linus, which is 1st, but maybe is me, total noob, not hearing right ¯\_(ツ)_/¯ ?
 
 I've seen images introduced here, I do not now how to do this on my own, I guess I really need help.
 
