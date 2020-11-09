@@ -12,6 +12,7 @@ Yeah, this dude seems to have the right knowledge, I totally can see it on his f
 
 Here is the dude saying all this:
 ![dude on Youtube](https://youtu.be/Loav1kbA640)
+[![dude on Youtube](https://github.com/pastorel/starting-this/blob/main/Screenshot_20201109-144115_YouTube.jpg)](https://youtu.be/Loav1kbA640)
 
 He claims to rank 15th around here, right after someone named Linus, which is 1st, but maybe is me, total noob, not hearing right ¯\_(ツ)_/¯ ?
 
